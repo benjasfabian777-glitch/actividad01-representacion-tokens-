@@ -1,0 +1,6 @@
+inspector_tokens
+*.o
+*.stdout
+*.stderr
+*.pdf
+*.zip
